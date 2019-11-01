@@ -93,11 +93,10 @@ namespace CM_Lab_4_Derivative
                 x += step;
             }
         }
-        
 
-   
-       
+        private void button3_Click(object sender, EventArgs e)
+        {
 
-      
+        }
     }
 }
