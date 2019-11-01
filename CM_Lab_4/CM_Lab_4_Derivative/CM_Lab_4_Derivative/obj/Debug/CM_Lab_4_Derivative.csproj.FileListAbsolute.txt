@@ -1,0 +1,20 @@
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.exe.config
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.exe
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.pdb
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csprojAssemblyReference.cache
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.Form1.resources
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.Properties.Resources.resources
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csproj.GenerateResource.cache
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csproj.CoreCompileInputs.cache
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.exe
+E:\3_course\Численные Методы\CountingMethod\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.pdb
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.exe.config
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.exe
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\bin\Debug\CM_Lab_4_Derivative.pdb
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.Form1.resources
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.Properties.Resources.resources
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.exe
+C:\Users\User\Desktop\CM_Lab_4\CM_Lab_4_Derivative\CM_Lab_4_Derivative\obj\Debug\CM_Lab_4_Derivative.pdb
